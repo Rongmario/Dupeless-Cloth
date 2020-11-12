@@ -1,0 +1,15 @@
+[
+{
+  "modid": "dupelesscloth",
+  "name": "Dupeless Cloth",
+  "description": "Fixes Botania's spellbinding cloth dupe issue.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rongmario"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

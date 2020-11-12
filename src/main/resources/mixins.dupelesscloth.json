@@ -1,0 +1,10 @@
+{
+  "package": "zone.rong.dupelesscloth.mixins",
+  "refmap": "mixins.dupelesscloth.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.6",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "SpellClothRecipeMixin"
+  ]
+}
